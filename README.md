@@ -8,3 +8,5 @@ https://github.com/emptyset0/Radar_akira0245/raw/master/pluginmaster.json
 蓝月用户将文件覆盖至此路径下：XIVLauncherCN\Roaming\pluginConfigs
 
 红月自理，区别不大
+
+如果有原来自己的配置请记得备份
